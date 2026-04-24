@@ -7,7 +7,7 @@ first_name: Jinghui
 middle_name:
 last_name: Liu
 contact_note: >
-  Feel free to reach out by email for research collaborations or enquiries.
+  # Feel free to reach out by email for research collaborations or enquiries.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Jinghui Liu, researcher in clinical NLP and large language models for healthcare at the Australian e-Health Research Centre, CSIRO.
 footer_text: >
@@ -18,7 +18,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 # Site logo / favicon.
 # Easiest: change the emoji below (e.g. 🧠 🧬 🩺 🤖 📚 🔬). Browsers will use it as the tab icon.
 # Alternative: drop a PNG/SVG into assets/img/ and put its filename here (e.g. `icon: my_logo.png`).
-icon: 🧠
+icon: icon.png
 
 url: https://jhliu7.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
