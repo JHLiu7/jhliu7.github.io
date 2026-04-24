@@ -6,8 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jinghui
 middle_name:
 last_name: Liu
-contact_note: >
-  # Feel free to reach out by email for research collaborations or enquiries.
+# contact_note: >
+#   # Feel free to reach out by email for research collaborations or enquiries.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Jinghui Liu, researcher in clinical NLP and large language models for healthcare at the Australian e-Health Research Centre, CSIRO.
 footer_text: >

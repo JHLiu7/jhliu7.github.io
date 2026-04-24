@@ -24,31 +24,12 @@ latest_posts:
 
 I am a Research Scientist at the [Australian e-Health Research Centre](https://aehrc.csiro.au/), [CSIRO](https://www.csiro.au/), based in Brisbane. My research develops natural language processing and large language models for healthcare — from clinical documentation and medical coding to predictive analytics on electronic health records.
 
-Before my current role, I was a Postdoctoral Research Fellow at AEHRC/CSIRO (2023–2026), where I led research on LLM-driven AI for health as part of CSIRO's strategic initiatives on clinical AI and antimicrobial resistance. I completed my PhD in Engineering and IT at the [University of Melbourne](https://www.unimelb.edu.au/) in 2023, with a thesis on adapting clinical NLP to contexts of task, framework, and data bias. I hold a Master of Health Informatics from the [University of Michigan, Ann Arbor](https://umich.edu/) and a dual bachelor's degree (Biomedical English; Economics) from [Peking University](https://english.pku.edu.cn/).
+Before my current role, I was a Postdoctoral Research Fellow at CSIRO (2023–2026), where I worked on LLM-driven AI for health as part of CSIRO's strategic initiatives on clinical AI and antimicrobial resistance. I completed my PhD at the University of Melbourne in 2023, supervised by [Prof. Karin Verspoor](https://rmit.edu.au/profiles/v/karin-verspoor), [Prof. Daniel Capurro](https://findanexpert.unimelb.edu.au/profile/852679-daniel-capurro-nario), and [Dr Anthony Nguyen](https://people.csiro.au/N/A/Anthony-Nguyen). I also hold a Master of Health Informatics from the University of Michigan, Ann Arbor.
 
 ## Research interests
 
-- **Clinical NLP and LLMs for health** — documentation, summarisation, information extraction from clinical text.
-- **Synthetic clinical text** — for training and evaluating task-specific and foundation models.
-- **Predictive analytics on EHRs** — multimodal modelling, early prediction of bacterial infection, antimicrobial stewardship.
+- **Clinical NLP and LLMs for health** — clinical documentation summarisation using LLMs.
+- **Generative information extraction for health** — extracting and structuring information from clinical reports.
+- **Synthetic clinical text** — to support privacy-preserving model development in the medical scenarios.
+- **Predictive analytics on EHRs** — multimodal modelling and predictive analysis using clinical records.
 - **Medical coding** — version-independent models for ICD and related terminologies.
-- **Reference-free evaluation** — using downstream predictive tasks as proxies for generated-note quality.
-
-## Academic services
-
-**Journal reviews (50+):** *npj Digital Medicine*, *npj Health Systems*, *PLOS Digital Health*, *IEEE Journal of Biomedical and Health Informatics*, *npj Genomic Medicine*, *Journal of the American Medical Informatics Association*, *Artificial Intelligence in Medicine*, *Communications Medicine*, *Scientific Reports*, *International Journal of Medical Informatics*, *Heliyon*, *BMC Medical Informatics and Decision Making*, *BMC Health Services Research*, *Journal of Intelligent Information Systems*, *Journal of Biomedical Semantics*, *Expert Systems with Applications*, and others.
-
-**Conference reviews (50+):** ACL ARR, AMIA Symposium, AMIA Informatics Summits, AMIA Clinical Informatics Conference, PRICAI, BioNLP @ ACL.
-
-**Scientific Program Committee (meta-reviewer):**
-
-- [AMIA Annual Symposium 2024](https://amia.org/education-events/amia-2024-annual-symposium/spc)
-- [AMIA Informatics Summits 2025](https://amia.org/education-events/amia-2025-informatics-summit/spc)
-
-**Reviewing Editor:** Springer Nature Reviewer Communities.
-
-## Awards
-
-- **Best paper award**, ALTA 2023, Melbourne.
-- **Reviewer award**, AMIA Informatics Summit 2024, Boston.
-- **Most Likely Health Impact Award**, MIDAS Poster Competition 2018, Ann Arbor.
