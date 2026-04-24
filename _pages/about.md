@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p>Brisbane, QLD, Australia</p>
-    <p>jinghui.liu(at)csiro.au</p>
+    <p>Email: jinghui.liu(at)csiro.au</p>
 
 selected_papers: true # includes a list of papers marked as `selected={true}` in papers.bib
 social: true
