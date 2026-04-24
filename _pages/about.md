@@ -12,7 +12,7 @@ profile:
     <p>Brisbane, QLD, Australia</p>
     <p>jinghui.liu27@gmail.com</p>
 
-selected_papers: false
+selected_papers: true # includes a list of papers marked as `selected={true}` in papers.bib
 social: true
 
 announcements:

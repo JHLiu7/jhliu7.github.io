@@ -15,7 +15,10 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: clinical NLP, large language models, healthcare AI, biomedical informatics, Jinghui Liu
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🧬 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+# Site logo / favicon.
+# Easiest: change the emoji below (e.g. 🧠 🧬 🩺 🤖 📚 🔬). Browsers will use it as the tab icon.
+# Alternative: drop a PNG/SVG into assets/img/ and put its filename here (e.g. `icon: my_logo.png`).
+icon: 🧠
 
 url: https://jhliu7.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -175,23 +178,12 @@ kramdown:
 include: ["_pages", "_scripts"]
 exclude:
   - bin/
-  - CONTRIBUTING.md
-  - CUSTOMIZE.md
-  - Dockerfile
-  - docker-compose.yml
-  - docker-compose-slim.yml
-  - FAQ.md
   - Gemfile
   - Gemfile.lock
-  - INSTALL.md
   - LICENSE
-  - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
-  - README.md
-  - readme_preview/
   - vendor
 keep_files:
   - CNAME
