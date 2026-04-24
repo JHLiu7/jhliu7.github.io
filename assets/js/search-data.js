@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-services",
+          title: "services",
+          description: "Academic services including journal and conference reviewing, program committee roles, and editorial activities.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/services/";
+          },
         },{
         id: 'social-email',
         title: 'email',
