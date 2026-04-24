@@ -28,7 +28,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%69%6E%67%68%75%69.%6C%69%75%32%37@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%6A%69%6E%67%68%75%69.%6C%69%75@%63%73%69%72%6F.%61%75", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -49,7 +49,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/jinghui-liu", "_blank");
+          window.open("https://github.com/JHLiu7", "_blank");
         },
       },{
       id: 'light-theme',
