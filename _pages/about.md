@@ -26,7 +26,7 @@ I am a Research Scientist at the [Australian e-Health Research Centre](https://a
 
 Before my current role, I was a Postdoctoral Research Fellow at CSIRO (2023–2026), where I worked on LLM-driven AI for health as part of CSIRO's strategic initiatives on clinical AI and antimicrobial resistance. I completed my PhD at the University of Melbourne in 2023, supervised by [Prof. Karin Verspoor](https://rmit.edu.au/profiles/v/karin-verspoor), [Prof. Daniel Capurro](https://findanexpert.unimelb.edu.au/profile/852679-daniel-capurro-nario), and [Dr Anthony Nguyen](https://people.csiro.au/N/A/Anthony-Nguyen). I also hold a Master of Health Informatics from the University of Michigan, Ann Arbor.
 
-## Research interests
+## research interests
 
 - **Clinical NLP and LLMs for health** — clinical documentation summarisation using LLMs.
 - **Generative information extraction for health** — extracting and structuring information from clinical reports.
