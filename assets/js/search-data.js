@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-services",
-          title: "services",
-          description: "Academic services including journal and conference reviewing, program committee roles, and editorial activities.",
+        },{id: "nav-academic-services",
+          title: "Academic services",
+          description: "I served as a reviewer or as an SPC member for several venues in digital health and NLP.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/services/";
