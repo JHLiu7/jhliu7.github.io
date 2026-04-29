@@ -10,15 +10,15 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "Publications",
+          title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-academic-services",
-          title: "Academic services",
-          description: "I served as a reviewer or as an SPC member for several venues in digital health and NLP.",
+        },{id: "nav-services",
+          title: "services",
+          description: "I served as a reviewer or as an SPC member for several academic venues in digital health and NLP.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/services/";
