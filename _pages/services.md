@@ -1,11 +1,13 @@
 ---
 layout: page
 permalink: /services/
-title: Academic services
-description: I served as a reviewer or as an SPC member for several venues in digital health and NLP.
+title: services
+description: I served as a reviewer or as an SPC member for several academic venues in digital health and NLP.
 nav: true
 nav_order: 3
 ---
+
+
 
 ## Scientific Program Committee
 
