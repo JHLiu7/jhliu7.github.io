@@ -7,19 +7,17 @@ nav: true
 nav_order: 3
 ---
 
-## Journal reviews (50+)
+## Journal reviews
 
-*npj Digital Medicine*, *npj Health Systems*, *PLOS Digital Health*, *IEEE Journal of Biomedical and Health Informatics*, *npj Genomic Medicine*, *Journal of the American Medical Informatics Association*, *Artificial Intelligence in Medicine*, *Communications Medicine*, *Scientific Reports*, *International Journal of Medical Informatics*, *Heliyon*, *BMC Medical Informatics and Decision Making*, *BMC Health Services Research*, *Journal of Intelligent Information Systems*, *Journal of Biomedical Semantics*, *Expert Systems with Applications*, and others.
+*npj Digital Medicine*, *npj Health Systems*, *PLOS Digital Health*, *IEEE Journal of Biomedical and Health Informatics*, *Journal of the American Medical Informatics Association*, *Artificial Intelligence in Medicine*, *Scientific Reports*, *BMC Medical Informatics and Decision Making*, and others.
 
-## Conference reviews (50+)
+## Conference reviews
 
-ACL ARR, AMIA Symposium, AMIA Informatics Summits, AMIA Clinical Informatics Conference, PRICAI, BioNLP @ ACL.
+ACL ARR, AMIA Symposium, AMIA Informatics Summits, AMIA Clinical Informatics Conference, BioNLP@ACL, and others.
 
-## Scientific Program Committee (meta-reviewer)
+## Scientific Program Committee
 
 - [AMIA Annual Symposium 2024](https://amia.org/education-events/amia-2024-annual-symposium/spc)
 - [AMIA Informatics Summits 2025](https://amia.org/education-events/amia-2025-informatics-summit/spc)
-
-## Reviewing Editor
-
-Springer Nature Reviewer Communities.
+- [AMIA Amplify Informatics Conference 2026](https://amia.org/education-events/amplify-informatics-conference/summit-spc)
+[website.html](https://github.com/user-attachments/files/27197945/website.html)
