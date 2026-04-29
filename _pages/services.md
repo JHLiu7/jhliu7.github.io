@@ -1,11 +1,19 @@
 ---
 layout: page
 permalink: /services/
-title: services
-description: Academic services including journal and conference reviewing, program committee roles, and editorial activities.
+title: Academic services
+description: I served as a reviewer or as an SPC member for several venues in digital health and NLP.
 nav: true
 nav_order: 3
 ---
+
+## Scientific Program Committee
+
+- [AMIA Annual Symposium 2024](https://amia.org/education-events/amia-2024-annual-symposium/spc)
+- [AMIA Informatics Summits 2025](https://amia.org/education-events/amia-2025-informatics-summit/spc)
+- [AMIA Amplify Informatics Conference 2026](https://amia.org/education-events/amplify-informatics-conference/summit-spc)
+[website.html](https://github.com/user-attachments/files/27197945/website.html)
+
 
 ## Journal reviews
 
@@ -15,9 +23,3 @@ nav_order: 3
 
 ACL ARR, AMIA Symposium, AMIA Informatics Summits, AMIA Clinical Informatics Conference, BioNLP@ACL, and others.
 
-## Scientific Program Committee
-
-- [AMIA Annual Symposium 2024](https://amia.org/education-events/amia-2024-annual-symposium/spc)
-- [AMIA Informatics Summits 2025](https://amia.org/education-events/amia-2025-informatics-summit/spc)
-- [AMIA Amplify Informatics Conference 2026](https://amia.org/education-events/amplify-informatics-conference/summit-spc)
-[website.html](https://github.com/user-attachments/files/27197945/website.html)
