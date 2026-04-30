@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-This page summarizes selected service activities, including Scientific Program Committee membership and peer review for journals and conferences.
+<!-- This page summarizes selected service activities, including Scientific Program Committee membership and peer review for journals and conferences. -->
 
 <!-- ## Overview
 

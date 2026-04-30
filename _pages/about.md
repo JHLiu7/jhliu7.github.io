@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p>Brisbane, Australia</p>
-    <p>Email: jinghui.liu(at)csiro.au</p>
+    <p>jinghui.liu(at)csiro.au</p>
 
 selected_papers: true # includes a list of papers marked as `selected={true}` in papers.bib
 social: true
@@ -27,7 +27,7 @@ I am a Research Scientist at the [Australian e-Health Research Centre](https://a
 Before my current role, I was a Postdoctoral Research Fellow at CSIRO, where I contributed to CSIRO initiatives in clinical AI and antimicrobial resistance. I completed my PhD at the University of Melbourne in 2023, supervised by [Prof. Karin Verspoor](https://rmit.edu.au/profiles/v/karin-verspoor), [Prof. Daniel Capurro](https://findanexpert.unimelb.edu.au/profile/852679-daniel-capurro-nario), and [Dr Anthony Nguyen](https://people.csiro.au/N/A/Anthony-Nguyen). I also hold a Master of Health Informatics from the University of Michigan, Ann Arbor.
 
 <!-- ## Research Interests -->
-<h2 style="margin-top: 2rem;">Research Interests</h2>
+<h2 style="margin-top: 3rem;">Research Interests</h2>
 
 - **Clinical documentation improvement** — clinical documentation generation and summarisation using LLMs.
 - **Generative information extraction for health** — extracting and structuring information from clinical reports.
