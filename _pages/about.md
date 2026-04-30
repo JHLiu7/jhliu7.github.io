@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist, <a href="https://aehrc.csiro.au/">Australian e-Health Research Centre</a>, <a href="https://www.csiro.au/">CSIRO</a>.
+subtitle: Research Scientist, <a href="https://www.csiro.au/">CSIRO</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Brisbane, QLD, Australia</p>
+    <p>Brisbane, Australia</p>
     <p>Email: jinghui.liu(at)csiro.au</p>
 
 selected_papers: true # includes a list of papers marked as `selected={true}` in papers.bib
