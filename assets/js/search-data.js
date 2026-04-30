@@ -4,21 +4,21 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-services",
-          title: "services",
-          description: "I served as a reviewer or as an SPC member for several academic venues in digital health and NLP.",
+          title: "Services",
+          description: "Academic service in digital health, clinical NLP, and health informatics.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/services/";
