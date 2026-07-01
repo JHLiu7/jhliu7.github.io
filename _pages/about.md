@@ -30,9 +30,9 @@ Before my current role, I was a Postdoctoral Research Fellow at CSIRO, where I c
 <h2 style="margin-top: 3rem;">Research Interests</h2>
 
 <ul style="list-style: none; padding-left: 0;">
-  <li><i class="fa-solid fa-file-pen fa-fw"></i> <strong>Clinical documentation improvement</strong> — clinical documentation generation and summarisation using LLMs.</li>
-  <li><i class="fa-solid fa-magnifying-glass fa-fw"></i> <strong>Generative information extraction for health</strong> — extracting and structuring information from clinical reports.</li>
-  <li><i class="fa-solid fa-flask fa-fw"></i> <strong>Synthetic clinical text</strong> — supporting privacy-preserving model development in medical scenarios.</li>
-  <li><i class="fa-solid fa-chart-line fa-fw"></i> <strong>Predictive analytics on EHRs</strong> — multimodal modeling and predictive analytics using clinical records.</li>
-  <li><i class="fa-solid fa-tags fa-fw"></i> <strong>Medical coding</strong> — version-independent models for ICD and related terminologies.</li>
+  <li style="display: flex; align-items: baseline; gap: 8px; margin-bottom: 4px;"><i class="fa-solid fa-file-pen fa-fw" style="flex-shrink: 0;"></i><span><strong>Clinical documentation improvement</strong> — clinical documentation generation and summarisation using LLMs.</span></li>
+  <li style="display: flex; align-items: baseline; gap: 8px; margin-bottom: 4px;"><i class="fa-solid fa-magnifying-glass fa-fw" style="flex-shrink: 0;"></i><span><strong>Generative information extraction for health</strong> — extracting and structuring information from clinical reports.</span></li>
+  <li style="display: flex; align-items: baseline; gap: 8px; margin-bottom: 4px;"><i class="fa-solid fa-flask fa-fw" style="flex-shrink: 0;"></i><span><strong>Synthetic clinical text</strong> — supporting privacy-preserving model development in medical scenarios.</span></li>
+  <li style="display: flex; align-items: baseline; gap: 8px; margin-bottom: 4px;"><i class="fa-solid fa-chart-line fa-fw" style="flex-shrink: 0;"></i><span><strong>Predictive analytics on EHRs</strong> — multimodal modeling and predictive analytics using clinical records.</span></li>
+  <li style="display: flex; align-items: baseline; gap: 8px;"><i class="fa-solid fa-tags fa-fw" style="flex-shrink: 0;"></i><span><strong>Medical coding</strong> — version-independent models for ICD and related terminologies.</span></li>
 </ul>
