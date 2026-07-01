@@ -29,10 +29,10 @@ Before my current role, I was a Postdoctoral Research Fellow at CSIRO, where I c
 <!-- ## Research Interests -->
 <h2 style="margin-top: 3rem;">Research Interests</h2>
 
-<ul class="fa-ul">
-  <li><span class="fa-li"><i class="fa-solid fa-file-pen"></i></span><strong>Clinical documentation improvement</strong> — clinical documentation generation and summarisation using LLMs.</li>
-  <li><span class="fa-li"><i class="fa-solid fa-magnifying-glass"></i></span><strong>Generative information extraction for health</strong> — extracting and structuring information from clinical reports.</li>
-  <li><span class="fa-li"><i class="fa-solid fa-flask"></i></span><strong>Synthetic clinical text</strong> — supporting privacy-preserving model development in medical scenarios.</li>
-  <li><span class="fa-li"><i class="fa-solid fa-chart-line"></i></span><strong>Predictive analytics on EHRs</strong> — multimodal modeling and predictive analytics using clinical records.</li>
-  <li><span class="fa-li"><i class="fa-solid fa-tags"></i></span><strong>Medical coding</strong> — version-independent models for ICD and related terminologies.</li>
+<ul style="list-style: none; padding-left: 0;">
+  <li><i class="fa-solid fa-file-pen fa-fw"></i> <strong>Clinical documentation improvement</strong> — clinical documentation generation and summarisation using LLMs.</li>
+  <li><i class="fa-solid fa-magnifying-glass fa-fw"></i> <strong>Generative information extraction for health</strong> — extracting and structuring information from clinical reports.</li>
+  <li><i class="fa-solid fa-flask fa-fw"></i> <strong>Synthetic clinical text</strong> — supporting privacy-preserving model development in medical scenarios.</li>
+  <li><i class="fa-solid fa-chart-line fa-fw"></i> <strong>Predictive analytics on EHRs</strong> — multimodal modeling and predictive analytics using clinical records.</li>
+  <li><i class="fa-solid fa-tags fa-fw"></i> <strong>Medical coding</strong> — version-independent models for ICD and related terminologies.</li>
 </ul>
